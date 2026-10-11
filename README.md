@@ -11,7 +11,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvagaur7487/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/3EyaNMEf38/)
 [![Email](https://img.shields.io/badge/Email-00E5FF?style=flat-square&logo=gmail&logoColor=black)](mailto:atharvagaur7487@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=Atharvagaur&label=views&color=203a43&style=flat-square)
 
 </div>
 
