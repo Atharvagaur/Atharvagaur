@@ -8,8 +8,8 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/YOUR-LEETCODE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvagaur7487/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/3EyaNMEf38/)
 [![Email](https://img.shields.io/badge/Email-00E5FF?style=flat-square&logo=gmail&logoColor=black)](mailto:atharvagaur7487@gmail.com)
 ![Views](https://komarev.com/ghpvc/?username=Atharvagaur&label=views&color=203a43&style=flat-square)
 
@@ -97,8 +97,26 @@ Modular Retrieval-Augmented Generation pipeline with history-aware chat.
 
 <br/>
 
-📡 Let's Connect
-<div align="center">
-<a href="mailto:atharvagaur7487@gmail.com"><img src="https://img.shields.io/badge/EMAIL-atharvagaur7487%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0f2027" alt="Email" /></a> <br/> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027" alt="LinkedIn" /></a> <a href="https://leetcode.com/u/YOUR-LEETCODE"><img src="https://img.shields.io/badge/LEETCODE-200%2B%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f2027" alt="LeetCode" /></a> <a href="https://github.com/Atharvagaur"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" alt="GitHub" /></a>
+## 📡 Let's Connect
 
-<br/> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Got+an+idea%3F+Let%27s+build+it.;Open+to+research+collaborations.;Always+up+for+a+good+problem." alt="cta" /> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" alt="footer" /> </div>
+<div align="center">
+
+```bash
+$ ssh atharva@collab --open-to internships,research,projects
+> connection established ✔
+> response time: usually within 24h
+```
+
+<a href="mailto:atharvagaur7487@gmail.com"><img src="https://img.shields.io/badge/EMAIL-atharvagaur7487%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0f2027" alt="Email" /></a>
+<br/>
+<a href="https://www.linkedin.com/in/atharvagaur7487/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/3EyaNMEf38/"><img src="https://img.shields.io/badge/LEETCODE-200%2B%20SOLVED-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0f2027" alt="LeetCode" /></a>
+<a href="https://github.com/Atharvagaur"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0f2027" alt="GitHub" /></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=520&lines=Got+an+idea%3F+Let%27s+build+it.;Open+to+research+collaborations.;Always+up+for+a+good+problem." alt="cta" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=90&section=footer" alt="footer" />
+
+</div>
