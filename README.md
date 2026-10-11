@@ -101,12 +101,6 @@ Modular Retrieval-Augmented Generation pipeline with history-aware chat.
 
 <div align="center">
 
-```bash
-$ ssh atharva@collab --open-to internships,research,projects
-> connection established ✔
-> response time: usually within 24h
-```
-
 <a href="mailto:atharvagaur7487@gmail.com"><img src="https://img.shields.io/badge/EMAIL-atharvagaur7487%40gmail.com-00E5FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0f2027" alt="Email" /></a>
 <br/>
 <a href="https://www.linkedin.com/in/atharvagaur7487/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f2027" alt="LinkedIn" /></a>
